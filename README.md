@@ -1,5 +1,5 @@
 # machine-learning-projects
-This is a repo for my ML based projects
+This is a repo for my ML based projects. Please note that this repo is constantly evolving as I add more projects, watch this space!
 
 - Classification
 - Regression
